@@ -7,7 +7,7 @@ const lyrics2 = ['the night grows cold', 'the day goes on', 'the evening draws i
 const lyrics3 = ['and I miss you more and more.', 'and I wish you were here.', 'and I long to see you again.', 'and I pray for salvation.', 'and my heart breaks even more.'];
 
 const bandName1 = ['East', 'West', 'Next', 'Left', 'Best', 'Give', 'Max'];
-const bandName2 = ['to', 'of', 'the', 'for', 'don\'t', 'not'];
+const bandName2 = ['To', 'Of', 'The', 'For', 'Don\'t', 'Not'];
 const bandName3 = ['Love', 'Bass', 'Beat', 'Dead', 'Life'];
 
 const randomSongGen = () => {
