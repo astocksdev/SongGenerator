@@ -10,7 +10,7 @@ const bandName1 = ['East', 'West', 'Next', 'Left', 'Best', 'Give', 'Max'];
 const bandName2 = ['to', 'of', 'the', 'for', 'don\'t', 'not'];
 const bandName3 = ['Love', 'Bass', 'Beat', 'Dead', 'Life'];
 
-const randomNumGen = () => {
+const randomSongGen = () => {
     const c1 = Math.floor(Math.random() * chords.length);
     const c2 = Math.floor(Math.random() * chords.length);
     const c3 = Math.floor(Math.random() * chords.length);
